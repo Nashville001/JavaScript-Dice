@@ -17,3 +17,14 @@ To run the Game locally, follow these steps:
 3. Open the `index.html` file in your web browser.
 
 Alternatively, you can view the website online by visiting (https://nashville001.github.io/JavaScript-Dice/)
+
+## Usage
+The Dice Game is for educational purposes only and not meant for commercial use.
+
+## Contributing
+
+Contributions to this project are not accepted, as it is intended for personal learning and educational purposes only.
+
+## License
+This project is licensed under the [MIT License](https://github.com/Nashville001/Mono-website/blob/master/README.md). Feel free to use the code as a reference for your own educational projects.
+
