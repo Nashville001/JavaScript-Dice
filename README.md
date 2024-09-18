@@ -16,7 +16,7 @@ To run the Game locally, follow these steps:
 2. Navigate to the project directory: `cd JavaScript-Dice`
 3. Open the `index.html` file in your web browser.
 
-Alternatively, you can view the website online by visiting (https://nashville001.github.io/JavaScript-Dice/)
+Alternatively, you can view the website online by visiting [here](https://nashville001.github.io/JavaScript-Dice/)
 
 ## Usage
 The Dice Game is for educational purposes only and not meant for commercial use.
